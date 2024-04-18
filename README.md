@@ -13,4 +13,7 @@ Currently, I'm immersed in the world of Computer Science at my high school, wher
 
 I'm always open to collaboration, feedback, or simply connecting with fellow enthusiasts! Feel free to reach out via email or through GitHub – let's embark on this exciting journey together!
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/daekju35/daekju35/blob/main/snow-cat-3333906626.gif))
+
+
+
+![](https://github.com/daekju35/daekju35/blob/main/snow-cat-3333906626.gif)
